@@ -95,6 +95,12 @@ A-share watchlist analysis, monitoring, and alert delivery powered by TickFlow a
 openclaw plugins install tickflow-assist
 ```
 
+After installation, run the configuration wizard:
+
+```bash
+npx -y tickflow-assist configure-openclaw
+```
+
 ### wecom
 
 OpenClaw Enterprise WeCom Channel Plugin.
